@@ -1,0 +1,47 @@
+--------K.B.S.A.S University of Sindh Naushahro feroze Campus----------------
+
+------PROJECT TITLE:--------
+-Roman Sindhi Sign Language Recognition System for Deaf and Dump-
+
+----------Project purpose:-----------
+--It aims to convert Sindhi Sign language to text in realtime using opencv.
+
+---Description---
+Roman Sindhi Sign Language Recognition Desktop App is a software application that uses OpenCV technology to recognize and interpret the Roman Sindhi Sign Language.
+This app is aimed at improving communication and accessibility for individuals who are deaf or hard of hearing and use the Roman Sindhi Sign Language as their primary mode of communication.
+The app utilizes computer vision and machine learning algorithms provided by OpenCV to analyze and interpret sign language gestures in real-time, providing users with an accurate and immediate translation into text.
+This app runs on desktop computers and is easy to use, making it a valuable tool for both individuals and organizations that support the deaf and hard-of-hearing communities.
+
+
+---Algorithm used to train Dataset----
+--We use Google teachable Machine to train the required dataset for prediction.
+--we have created our own dataset using MediaPipe library.
+
+Requirements Install Project
+-----------------------------
+1. pycharm community
+2. Python
+----Frontend----
+1.TKinter library
+
+---Other libraries---
+1.OpenCV
+2.CVzone
+3.Mediapipe
+4.Numpy
+5.Pillow
+6.keras
+7.math
+8.time
+
+
+-------WORKING OF PROJECT-----------
+OUR PROJECT IS MAINLY BASED ON TWO PARTS
+
+1.Dataset Creation: here we create the dataset for our project using computer webcam
+
+2.Sign Classification:Here we Identifies the sign by using hand Gestures.
+
+
+project Supervised by Sir Muhammad Khalid Sheikh
+Work done by : Murk Channa,Seema Channa
